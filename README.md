@@ -43,5 +43,3 @@ This project aims to predict whether a student will be placed based on academic 
 
 ---
 
-## 📁 Folder Structure
-
